@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333333;
+}
+
+#main-heading {
+    text-align: center;
+    font-size: 24px;
+    color: #007bff; /* Blue color */
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.image-container img {
+    width: 200px;
+    margin: 0 10px;
+    border: 2px solid #333333;
+}
+
+.highlighted {
+    background-color: #ffff00; /* Yellow color */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 18px;
+}
